@@ -4,7 +4,7 @@ I write down what I learn and make notes.
 # OSI Model
 
 ## What I learned
-- Difference between LAN and WAN
+- Difference between **LAN** and **WAN**
 - How IP, subnet mask, and gateway work together
 - OSI model layers and encapsulation
 
